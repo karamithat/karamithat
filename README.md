@@ -26,6 +26,8 @@ My name is Mithat. I graduated from the department of business administration in
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+<h2>Contact Me</h2>
+<a href="https://www.linkedin.com/in/mithat-kara/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>My Contributions</h2>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=karamithat&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
