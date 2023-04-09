@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hey there! I'm Mithat, a passionate explorer of the digital realm. 🚀 After starting my journey in Business Administration, I stumbled upon the fascinating world of frontend development and never looked back. 🌐
+I'm Mithat, a passionate explorer of the digital realm. 🚀 After starting my journey in Business Administration, I stumbled upon the fascinating world of frontend development and never looked back. 🌐
 
 🔧 Here on my GitHub, you'll find a treasure trove of projects that showcase my ever-growing abilities. From sleek and functional user interfaces to efficient, innovative solutions, I'm constantly refining my craft and pushing the envelope. 🌟
 
